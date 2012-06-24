@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'FontLight';
+  src: local('Open Sans Light'), url('../fonts/opensans-light-webfont.woff') format('woff');
+}
+@font-face {
+  font-family: 'FontRegular';
+  src: local('Open Sans'), url('../fonts/opensans-regular-webfont.woff') format('woff');
+}
+@font-face {
+  font-family: 'FontSemibold';
+  src: local('Open Sans Semibold'), url('../fonts/opensans-semibold-webfont.woff') format('woff');
+}
+@font-face {
+  font-family: 'FontBold';
+  src: local('Open Sans Bold'), url('../fonts/opensans-bold-webfont.woff') format('woff');
+}
